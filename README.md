@@ -2,8 +2,6 @@
 
 This is flutter project platform moblie.
 
-## Getting Started
-
 # Mobile
 - git clone https://github.com/quyetvox/joke_app.git
 - cd joke_app
@@ -24,3 +22,5 @@ This is flutter project platform moblie.
 ```
 
 #Screen Shot
+<img src="https://raw.githubusercontent.com/quyetvox/joke_app/main/screen_shot/pic_1.png" />
+<img src="https://raw.githubusercontent.com/quyetvox/joke_app/main/screen_shot/pic_2.png" />
